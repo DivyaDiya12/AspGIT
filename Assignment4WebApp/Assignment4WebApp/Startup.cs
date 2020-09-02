@@ -28,6 +28,7 @@ namespace Assignment4WebApp
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello !");
+                await context.Response.WriteAsync("Welcome to .Net Core sample Application");
             });
         }
     }
