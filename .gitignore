@@ -2,6 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/SampleApp/.vs
-/SampleApp/SampleApp/bin/Debug/netcoreapp2.1
-/SampleApp/SampleApp/obj
+/Assignment4WebApp/.vs
